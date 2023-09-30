@@ -1,0 +1,14 @@
+{
+  "name": "magnet-uri-parser",
+  "version": "1.0.0",
+  "description": "Parse a magnet link into Object",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
